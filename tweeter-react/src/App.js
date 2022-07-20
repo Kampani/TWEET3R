@@ -168,7 +168,7 @@ const App = () => {
         </div>
         <div className="bio">
           <p>
-            Connect your Ethereum wallet and send me a tweet!<br/>
+            Connect your Ethereum wallet, change your network to Goerli and send me a tweet!<br/>
             Your tweet will appear at the bottom of the list.
           </p>
           <p>
